@@ -47,7 +47,7 @@
 ---
 
 ### 🌟 Fun Projects
-
+-[PSIT Pre-Order] (https://psitpre-order.netlify.app/)
 - [Password Manager](https://github.com/PANKAJ-SINGH-KUSHWAHA/Password-Manager)
 - [To-Do App](https://github.com/PANKAJ-SINGH-KUSHWAHA/To-Do-App)
 - [World Travel Tracker](https://github.com/PANKAJ-SINGH-KUSHWAHA/World-Travel-Tracker)
