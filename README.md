@@ -21,7 +21,7 @@
 - 📫 **Reach Me At:**
   - [LinkedIn](https://www.linkedin.com/in/pankaj-singh-kushwaha)
   - Email: kushwahapankaj793@gmail.com.com
-  - [Portfolio Website](https://your-portfolio-link.com) (Coming Soon)
+  - [Portfolio Website]((https://pankaj-singh-portfolio.netlify.app/))
 
 ---
 
