@@ -65,10 +65,10 @@
 ### 🏆 Achievements
 
 - 🏅 Earned **Cisco Networking Academy Badge**
-- 🥇 Completed **ReactJS Certification** from Infosys Springboard
+- 💡 Trailhead **Agentblazer Champion**
 - 🧠 Solved **500+ problems** on LeetCode
 - 🌐 Ranked in **Top 5000** in *Build with India*
-- 💡 Trailhead **Agentblazer Champion**
+
 
 ---
 
