@@ -3,9 +3,9 @@
 
 <p align="center">
   <a href="mailto:pankajsinghkushwaha.work@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-007ACC?style=for-the-badge&logo=azure-devops&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/pankaj-singh-kushwaha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Pankaj-Singh-Kushwaha"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://pankaj-singh-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-007ACC?style=for-the-badge&logo=azure-devops&logoColor=white"/></a>
 </p>
 
 ---
@@ -75,19 +75,19 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR-GITHUB-USERNAME&theme=radical&hide_border=false" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PANKAJ-SINGH-KUSHWAHA&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=PANKAJ-SINGH-KUSHWAHA&theme=radical&hide_border=false" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PANKAJ-SINGH-KUSHWAHA&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
-- 🌐 [Portfolio](https://yourportfolio.com)
+- 💼 [LinkedIn](https://linkedin.com/in/pankaj-singh-kushwaha)
+- 🌐 [Portfolio](https://pankaj-singh-portfolio.netlify.app/)
 - 📮 Email: **pankajsinghkushwaha.work@gmail.com**
 
 ---
