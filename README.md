@@ -88,7 +88,7 @@
 
 - 💼 [LinkedIn](https://linkedin.com/in/pankaj-singh-kushwaha)
 - 🌐 [Portfolio](https://pankaj-singh-portfolio.netlify.app/)
-- 📮 Email: **pankajsinghkushwaha.work@gmail.com**
+- 📮 Email: **kushwahapankaj793@gmail.com**
 
 ---
 
