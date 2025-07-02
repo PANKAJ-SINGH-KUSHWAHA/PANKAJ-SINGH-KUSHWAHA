@@ -18,7 +18,7 @@
 - 💡 Passionate about solving real-world problems through code
 - 🌱 Currently improving my **DSA**, **System Design**, and **Cloud Deployment** skills
 - 🧠 Solved **500+ problems** on LeetCode
-- 📫 Reach me at: **pankajsinghkushwaha.work@gmail.com**
+- 📫 Reach me at: **kushwahapankaj793@gmail.com**
 
 ---
 
