@@ -55,6 +55,7 @@
 
 | Name | Tech Stack | Description |
 |------|------------|-------------|
+| **[💬 Visual Product Matcher](https://visual-product-matcher-six.vercel.app/)** | MERN Stack, ReNet50 | Web app that identifies and matches products in images using AI. Users can upload images to find visually similar products in real-time. |
 | **[💬 Charix - Real-Time Messaging App](https://charix-real-time-messaging-app.onrender.com/)** | MERN Stack, Socket.io | Real-time group/private chat app with JWT authentication and persistent MongoDB storage. |
 | **[📩 Prophecy - Spam Predictor App](https://pankaj-singh-sms-email-predictor.streamlit.app/)** | Python, ML, NLP, Streamlit | Trained ML models on text data (TD-IDF, Naive Bayes, SVM) to classify spam messages in real-time. |
 | **[📦 PSIT-Pre Order (College Delivery)](https://psitpre-order.netlify.app/)** | HTML, CSS, JavaScript | A web application for PSIT students to pre-order food from the canteen while in class. Orders are prepared in advance and can be picked up without waiting, improving efficiency and reducing crowding. Utilizes local storage for managing cart and order data. |
