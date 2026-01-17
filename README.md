@@ -81,23 +81,31 @@ Full-Stack Web Developer | Backend Engineer | Machine Learning Enthusiast
 
 ## 🏆 Achievements
 
-- 🏅 Cisco Networking Academy Badge
-- 💡 Salesforce **Trailhead Agentblazer Champion**
-- 🧠 500+ LeetCode Problems Solved
-- 🌐 Top 5000 Rank — **Build With India**
+- Global Rank **15,838 (Top 3.2%)** — **TCS CodeVita** (500K+ participants, 94 countries)  
+- **Top 30% LeetCode** | 600+ problems solved  
+- **Top 5000** — Build With India  
+- **35+ Salesforce Trailblazer badges** (GenAI, NLP, LLMs)  
+- Certified by **Infosys Springboard, Meta (Coursera) & Cisco**  
+- **Salesforce Agentblazer Champion** | Cisco Networking Academy Badge
+
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pankaj-Singh-Kushwaha&show_icons=true&theme=radical"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Pankaj-Singh-Kushwaha&theme=radical"/>
+  <img width="48%" 
+       src="https://github-readme-stats.vercel.app/api?username=Pankaj-Singh-Kushwaha&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
+
+  <img width="48%" 
+       src="https://streak-stats.demolab.com?user=Pankaj-Singh-Kushwaha&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankaj-Singh-Kushwaha&layout=compact&theme=radical"/>
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankaj-Singh-Kushwaha&layout=compact&theme=radical&hide_border=true" />
 </p>
+
 
 ---
 
