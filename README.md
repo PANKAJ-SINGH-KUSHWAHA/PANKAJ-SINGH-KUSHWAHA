@@ -70,7 +70,7 @@ Full-Stack Web Developer | Backend Engineer | Machine Learning Enthusiast
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
-| 🔗 **URL-Quantizer** | MERN, MongoDB, JWT | High-performance URL shortener with analytics, QR code generation & secure redirection |
+| 🔗 **URL-Quantizer** | MERN, MongoDB| High-performance URL shortener with analytics, QR code generation & secure redirection |
 | 🖼️ **Visual Product Matcher** | MERN, ResNet50, Computer Vision | AI-powered system that finds visually similar products using deep learning embeddings |
 | 💬 **Charix – Real-Time Chat App** | MERN, Socket.io | Secure real-time messaging app with JWT authentication, private & group chat |
 | 📩 **Prophecy – Spam Predictor** | Python, NLP, ML | SMS & Email spam detection using TF-IDF, Naive Bayes & SVM models |
