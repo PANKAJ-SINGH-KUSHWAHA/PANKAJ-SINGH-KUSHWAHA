@@ -74,7 +74,7 @@ Full-Stack Web Developer | Backend Engineer | Machine Learning Enthusiast
 | 🖼️ **Visual Product Matcher** | MERN, ResNet50, Computer Vision | AI-powered system that finds visually similar products using deep learning embeddings |
 | 💬 **Charix – Real-Time Chat App** | MERN, Socket.io | Secure real-time messaging app with JWT authentication, private & group chat |
 | 📩 **Prophecy – Spam Predictor** | Python, NLP, ML | SMS & Email spam detection using TF-IDF, Naive Bayes & SVM models |
-| 📚 **Librario – Library Management System** | MERN Stack | Full-stack system for managing books, users, issue/return workflow, admin dashboard & REST APIs |
+| 📚 **Librario – Library Management System** | Java Springboot | Full-stack system for managing books, users, issue/return workflow, admin dashboard & REST APIs |
 | 🍔 **PSIT Pre-Order System** | HTML, CSS, JavaScript | College canteen pre-ordering system to reduce queues and waiting time |
 
 ---
