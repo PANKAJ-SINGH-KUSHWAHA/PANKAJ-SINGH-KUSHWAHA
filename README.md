@@ -18,7 +18,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankaj-singh-kushwaha)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pankaj-Singh-Kushwaha)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pankaj-singh-portfolio.netlify.app/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Pankaj-Singh-Kushwaha)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Pankaj_Singh_Kushwaha/)
 
 <img src="https://komarev.com/ghpvc/?username=Pankaj-Singh-Kushwaha&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 
@@ -343,7 +343,7 @@ Kubernetes & serverless architectures
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/pankaj-singh-kushwaha)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722)](https://pankaj-singh-portfolio.netlify.app)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:kushwahapankaj793@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Follow_Me-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116)](https://leetcode.com/Pankaj-Singh-Kushwaha)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Follow_Me-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116)](https://leetcode.com/u/Pankaj_Singh_Kushwaha/)
 
 <br/><br/>
 
